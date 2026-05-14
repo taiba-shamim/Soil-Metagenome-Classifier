@@ -51,3 +51,4 @@ data/processed/*
 !data/**/README.md
 results/models/*
 !results/models/.gitkeep
+dataset/
