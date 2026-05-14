@@ -25,6 +25,7 @@ gradient boosting model.
 ## Pipeline
 
 
+<img width="1280" height="720" alt="pipeline-overview" src="https://github.com/user-attachments/assets/8776a5e6-cf81-449d-b8cd-105285fdb6a0" />
 
 The pipeline consists of the following stages:
 
