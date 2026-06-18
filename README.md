@@ -53,7 +53,6 @@ The pipeline consists of the following stages:
 
 ## Repository Structure
 
-Soil-Metagenome-Classifier/
 <img width="419" height="216" alt="image" src="https://github.com/user-attachments/assets/b577fa18-e135-4cb2-8132-02690bd53b2e" />
 
 
