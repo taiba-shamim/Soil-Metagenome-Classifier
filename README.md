@@ -1,7 +1,7 @@
 # AI-Based Taxonomic Classification of Soil Metagenome
 
 An alignment-free, machine learning pipeline for species-level taxonomic 
-classification of soil bacterial metagenomes using XGBoost.
+classification of soil metagenomes using XGBoost.
 
 ---
 
