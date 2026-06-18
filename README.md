@@ -54,19 +54,8 @@ The pipeline consists of the following stages:
 ## Repository Structure
 
 Soil-Metagenome-Classifier/
-│
-├── README.md
-├── LICENSE
-├── .gitignore
-├── species_list.txt              List of 306 reference species
-│
-├── dataset/                      Reference genome data and accessions
-├── fragments/                    Genome fragmentation scripts and statistics
-├── kmers/                        Canonical k-mer extraction pipeline
-├── label_encoding/               Species-to-integer label mapping
-├── model_train/                  XGBoost training scripts and trained model
-├── CAMISIM-validation/           External validation using CAMISIM simulations
-└── cami_results/                 Validation results, figures, and metrics
+<img width="419" height="216" alt="image" src="https://github.com/user-attachments/assets/b577fa18-e135-4cb2-8132-02690bd53b2e" />
+
 
 
 Each subdirectory contains its own README describing the inputs, outputs, 
